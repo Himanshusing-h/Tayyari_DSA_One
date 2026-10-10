@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2D_Arrays" isTestSource="false" packagePrefix="MultiDimensionalArrays" />
+      <sourceFolder url="file://$MODULE_DIR$/Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinaryTrees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bit_Manipulation" isTestSource="false" packagePrefix="BitManipulation" />
+      <sourceFolder url="file://$MODULE_DIR$/Cyclic_Sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Deque" isTestSource="false" packagePrefix="Stacks" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Maps&amp;Sets" isTestSource="false" packagePrefix="Maps_And_Sets" />
+      <sourceFolder url="file://$MODULE_DIR$/PrefixSum_Seive" isTestSource="false" packagePrefix="PrefixSum" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Strings" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
